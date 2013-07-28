@@ -1,8 +1,8 @@
 # Powerline eXtenstion for rbenv
 
-This is a fork of (plenv segment plugin)[https://github.com/omega/powerlinex-segment-plenv] by (omega)[http://github.com/omega].
+This is a fork of [plenv segment plugin](https://github.com/omega/powerlinex-segment-plenv) by [omega](http://github.com/omega), changed to work with rbenv.
 
-Changed to work with rbenv and display ruby version in the powerline prompt.
+# Installation
 
 First install the addon:
 
